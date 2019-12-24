@@ -1,2 +1,2 @@
 # Basic-Time-Series-Exploration
-Adapting an example to predit Presidential approval/disapproval ratings
+Adapting an example to predict Presidential approval/disapproval ratings
